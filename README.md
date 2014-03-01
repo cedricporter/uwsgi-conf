@@ -1,6 +1,6 @@
 uwsgi-conf
 ==========
 
-My uwsgi config
+The uwsgi config
 
 You can put your conf under /etc/uwsgi/
